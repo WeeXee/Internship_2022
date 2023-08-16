@@ -44,7 +44,9 @@ Mon stage chez CPP LAB UCLouvain a été une expérience précieuse qui m'a perm
 
 Je tiens à remercier toute l'équipe pour cette opportunité et les précieuses leçons que j'ai apprises.
 
-Le projet en détails: [Lien vers la page détaillée]([https://www.google.com](https://github.com/cpp-lln-lab/bidsMReye))
+Le projet en détails:
+[Cliquez ici pour voir le projet](https://github.com/cpp-lln-lab/bidsMReye)
+
 
 **Signé : Pauline Cabée**
 
